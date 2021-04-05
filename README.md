@@ -1,6 +1,6 @@
 # paa
 
-Paa made these chnages
+Paa made these changes
 
 Have reached out to the developer to notify of conflict
 
